@@ -1,0 +1,13 @@
+{
+    "hostname": "google.com",
+    "database": {
+        "host": "127.0.0.1",
+        "user": "root",
+        "password": "root",
+        "port": 3306,
+        "db_name": "your_database",
+        "table_name": "ip_records"
+    },
+    "output_dir": "./results",
+    "check_interval_minutes": 1
+}
